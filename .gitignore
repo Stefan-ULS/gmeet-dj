@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+config.json
+.chrome-profile/
+music/*
+!music/.gitkeep
+.yt-cache/*
+music/*

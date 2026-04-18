@@ -1,0 +1,8 @@
+selenium>=4.20
+webdriver-manager>=4.0
+sounddevice>=0.4.6
+pydub>=0.25.1
+audioop-lts>=0.2.1; python_version >= "3.13"
+numpy>=1.26
+yt-dlp>=2026.1.1
+ytmusicapi>=1.8

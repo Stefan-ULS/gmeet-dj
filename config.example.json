@@ -1,0 +1,18 @@
+{
+  "meet_url": "https://meet.google.com/xxx-xxxx-xxx",
+  "bot_display_name": "Stefan's DJ Booty",
+  "google_email": "",
+  "google_password": "",
+  "chrome_user_data_dir": "./.chrome-profile",
+  "music_dir": "./music",
+  "output_device_substring": "CABLE Input",
+  "crossfade_seconds": 4.0,
+  "default_volume": 0.9,
+  "chat_command_prefix": "!",
+  "allow_chat_control": true,
+  "shuffle_on_start": true,
+  "sample_rate": 44100,
+  "youtube_enabled": true,
+  "youtube_cache_dir": "./.yt-cache",
+  "youtube_cookies_from_browser": "chrome"
+}
